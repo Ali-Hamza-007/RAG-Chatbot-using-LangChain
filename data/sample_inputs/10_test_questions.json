@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "type": "easy",
+    "question": "What is the capital of France?",
+    "expected_in_doc": true
+  },
+  {
+    "id": 2,
+    "type": "easy",
+    "question": "Who is the CEO of the company?",
+    "expected_in_doc": true
+  },
+  {
+    "id": 3,
+    "type": "hard",
+    "question": "What are the three main objectives outlined in section 4, and how do they relate to the Q3 financial report?",
+    "expected_in_doc": true
+  },
+  {
+    "id": 4,
+    "type": "hard",
+    "question": "Summarize the differences between the old vacation policy and the new one effective from 2024.",
+    "expected_in_doc": true
+  },
+  {
+    "id": 5,
+    "type": "out-of-document",
+    "question": "How do I bake a chocolate cake?",
+    "expected_in_doc": false
+  },
+  {
+    "id": 6,
+    "type": "out-of-document",
+    "question": "Who won the World Cup in 2022?",
+    "expected_in_doc": false
+  },
+  {
+    "id": 7,
+    "type": "easy",
+    "question": "How many annual leaves am I allowed per year?",
+    "expected_in_doc": true
+  },
+  {
+    "id": 8,
+    "type": "easy",
+    "question": "What is the contact email for IT support?",
+    "expected_in_doc": true
+  },
+  {
+    "id": 9,
+    "type": "hard",
+    "question": "Can you outline the exact steps required to submit a travel expense reimbursement according to the policy document?",
+    "expected_in_doc": true
+  },
+  {
+    "id": 10,
+    "type": "out-of-document",
+    "question": "What are the health benefits of drinking green tea?",
+    "expected_in_doc": false
+  }
+]
