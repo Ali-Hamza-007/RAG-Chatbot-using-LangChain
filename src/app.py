@@ -12,7 +12,7 @@ API_URL = "http://127.0.0.1:8000"
 st.set_page_config(page_title="RAG Chatbot", page_icon="🤖", layout="wide")
 
 st.title("🤖 RAG Document Chatbot")
-st.markdown("Upload documents (PDF, TXT, CSV) and ask questions. Answers are fully traceable to the source.")
+st.markdown("Upload documents (PDF, TXT) and ask questions. Answers are fully traceable to the source.")
 
 # Sidebar for file upload
 with st.sidebar:
