@@ -17,7 +17,7 @@ st.markdown("Upload documents (PDF, TXT) and ask questions. Answers are fully tr
 # Sidebar for file upload
 with st.sidebar:
     st.header("📄 Upload Document")
-    uploaded_file = st.file_uploader("Choose a file", type=["pdf", "txt", "csv"])
+    uploaded_file = st.file_uploader("Choose a file", type=["pdf", "txt"])
     
     if st.button("Process Document"):
         if uploaded_file is not None:
