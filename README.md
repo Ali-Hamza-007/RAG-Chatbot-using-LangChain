@@ -4,7 +4,7 @@ A completely scratch-built RAG Chatbot using LangChain, Chroma, and Groq.
 Includes a FastAPI backend and a Streamlit UI.
 
 ## Features
-- Upload PDF, TXT, CSV files
+- Upload PDF, TXT.
 - Process and chunk documents with metadata preservation
 - Store embeddings in a local Chroma vector database
 - Retrieve answers accurately with traceable sources (file name, page, chunk id)
